@@ -2,3 +2,4 @@ go 1.19
 
 use ./parse-json
 use ./parse-http
+use ./parse-io
