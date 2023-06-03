@@ -4,3 +4,4 @@ use ./parse-json
 use ./parse-http
 use ./parse-io
 use ./custom-error
+use ./use-flag
