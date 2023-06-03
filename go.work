@@ -5,3 +5,4 @@ use ./parse-http
 use ./parse-io
 use ./custom-error
 use ./use-flag
+use ./goroutine
