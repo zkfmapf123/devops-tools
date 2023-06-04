@@ -6,3 +6,4 @@ use ./parse-io
 use ./custom-error
 use ./use-flag
 use ./goroutine
+use ./cross-compile
